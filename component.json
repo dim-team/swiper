@@ -1,0 +1,9 @@
+{
+   "name": "swiper",
+   "version": "1.0.0",
+   "description": "swiper module",
+   "main": "swiper.js",
+   "files": [
+     "swiper.css"
+   ]
+}
